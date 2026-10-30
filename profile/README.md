@@ -7,7 +7,7 @@ TSEditor is a lightweight desktop application that allows players to view, edit,
 ## 🔗 Latest Release of TSEditor
 
 - **💾 Version 2.4.0.6** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/TSEditor-ETS-Save-Editor/.github/releases)
 
 ---
 
